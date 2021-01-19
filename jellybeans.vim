@@ -1,4 +1,4 @@
-" Vim color file
+" Vim color file: jellybeans
 "
 "  "    __       _ _       _                             "
 "  "    \ \  ___| | |_   _| |__   ___  __ _ _ __  ___    "
