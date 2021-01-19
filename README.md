@@ -1,4 +1,4 @@
-## Vimrc Config
+## vimrc Config
 **Step1**: apt 패키지 업데이트
 ```
 sudo apt-get update
