@@ -8,7 +8,7 @@ sudo apt-get upgrade
 ```
 sudo apt-get install vim
 ```
-**Step3**: [jellybean 테마 설치](https://www.vim.org/scripts/script.php?script_id=2555) 
+**Step3**: [jellybean 테마 설치](https://www.vim.org/scripts/script.php?script_id=2555)  
 **Step4**: color 폴더에 테마 복사
 ```
 cp <테마> /usr/share/vim/vimOO/color/
