@@ -8,12 +8,12 @@ sudo apt-get upgrade
 ```
 sudo apt-get install vim
 ```
-**Step3**: [jellybean 테마 설치](https://www.vim.org/scripts/script.php?script_id=2555)  
-**Step4**: color 폴더에 테마 복사
+**Step3**: color 폴더에 jellybean.vim 복사
 ```
-cp <테마> /usr/share/vim/vimOO/color/
+[jellybean 테마 설치](https://www.vim.org/scripts/script.php?script_id=2555)
+cp jellybean.vim /usr/share/vim/vimOO/color/
 ```
-**Step5**: .vimrc 파일 수정
+**Step4**: .vimrc 파일 수정
 ```
 vi ~/.vimrc
 vimrc.txt 파일의 내용 복사
